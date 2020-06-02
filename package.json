@@ -1,0 +1,15 @@
+{
+  "name": "machine_test",
+  "version": "1.0.0",
+  "description": "this is an task ",
+  "main": "app",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sainithin",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "geo-distance": "^0.2.0"
+  }
+}
